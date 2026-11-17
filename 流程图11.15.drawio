@@ -662,6 +662,9 @@
         <mxCell id="7GRE0aXP4Se3tYWtbWVj-55" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="恢复的第二层水印" vertex="1">
           <mxGeometry height="30" width="118.5" x="1225.25" y="714.9" as="geometry" />
         </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-56" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;水印验证阶段&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1233.75" y="517.64" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
