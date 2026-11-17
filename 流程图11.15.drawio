@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Hcumqo_MWAHvlIrNdu88">
-    <mxGraphModel dx="1232" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="712" dy="401" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -614,21 +614,19 @@
           <mxGeometry height="30" width="118.5" x="1890.25" y="575.52" as="geometry" />
         </mxCell>
         <mxCell id="cCh_tQHAJg_clXNS1wHz-135" parent="1" style="verticalLabelPosition=bottom;shadow=0;dashed=0;align=center;html=1;verticalAlign=top;strokeWidth=1;shape=mxgraph.mockup.forms.colorPicker;chosenColor=#aaddff;" value="" vertex="1">
-          <mxGeometry height="60" width="70" x="1963.5" y="90" as="geometry" />
+          <mxGeometry height="60" width="70" x="1964" y="110" as="geometry" />
         </mxCell>
         <mxCell id="cCh_tQHAJg_clXNS1wHz-136" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;$$C(X_0)$$&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="42" x="1979.5" y="105" as="geometry" />
+          <mxGeometry height="30" width="42" x="1980" y="125" as="geometry" />
         </mxCell>
         <mxCell id="cCh_tQHAJg_clXNS1wHz-137" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="图片内容特征" vertex="1">
-          <mxGeometry height="30" width="100" x="1948" y="60" as="geometry" />
+          <mxGeometry height="30" width="100" x="1948.5" y="80" as="geometry" />
         </mxCell>
-        <mxCell id="cCh_tQHAJg_clXNS1wHz-138" edge="1" parent="1" source="cCh_tQHAJg_clXNS1wHz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.521;entryY=0.968;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="cCh_tQHAJg_clXNS1wHz-135">
-          <mxGeometry relative="1" x="-0.0552" as="geometry">
-            <Array as="points">
-              <mxPoint x="1998.5" y="200" />
-              <mxPoint x="2000" y="200" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="cCh_tQHAJg_clXNS1wHz-139" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.license;" value="" vertex="1">
+          <mxGeometry height="30" width="29.16" x="1830" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cCh_tQHAJg_clXNS1wHz-141" edge="1" parent="1" source="cCh_tQHAJg_clXNS1wHz-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.499;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;defaultLabelBackgroundColor=page;labelPadding=0 4;sketch=1;curveFitting=1;jiggle=2;" target="cCh_tQHAJg_clXNS1wHz-135">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
