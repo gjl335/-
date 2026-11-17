@@ -402,6 +402,12 @@
         <mxCell id="cCh_tQHAJg_clXNS1wHz-17" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$t^*$$" vertex="1">
           <mxGeometry height="30" width="30" x="1150" y="302.53" as="geometry" />
         </mxCell>
+        <mxCell id="cCh_tQHAJg_clXNS1wHz-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="去噪" vertex="1">
+          <mxGeometry height="30" width="60" x="1090" y="231.34" as="geometry" />
+        </mxCell>
+        <mxCell id="cCh_tQHAJg_clXNS1wHz-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="去噪" vertex="1">
+          <mxGeometry height="30" width="60" x="1270" y="231.34" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
