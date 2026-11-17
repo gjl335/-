@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Hcumqo_MWAHvlIrNdu88">
-    <mxGraphModel dx="1868" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="958" dy="392" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,7 +183,7 @@
         <mxCell id="cCh_tQHAJg_clXNS1wHz-169" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="嵌入第二层噪声的中间潜变量" vertex="1">
           <mxGeometry height="30" width="100" x="719" y="405.4" as="geometry" />
         </mxCell>
-        <mxCell id="cCh_tQHAJg_clXNS1wHz-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;图像生成阶段&lt;/b&gt;&lt;/font&gt;" vertex="1">
+        <mxCell id="cCh_tQHAJg_clXNS1wHz-172" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;水印嵌入阶段&lt;/b&gt;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="110" x="283.25" y="197.53" as="geometry" />
         </mxCell>
         <mxCell id="7GRE0aXP4Se3tYWtbWVj-9" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;sketch=1;curveFitting=1;jiggle=2;">
@@ -308,6 +308,30 @@
         </mxCell>
         <mxCell id="7GRE0aXP4Se3tYWtbWVj-72" parent="1" style="shape=stencil(lZbLcsIwDEW/JluNJfkhr2n7H8wQSqYUGKCvv6/TTChyilJ2xtYNku+x7IYXp83y0DbkTufj/qX96FbnTcMPDVG327TH7lxGDT82vFjvj+3zcf+2Ww2/D8s+sh+97t/7L3wOOgfO9SJyX8MEJ8j8M/M0xG+73VU8ghMV7wmCEU/gScczoLsd70G8jo8Qwu14ARd1vACJkT8CZSUIly34W8CQUAsYvJERRsi6hBAAk7FFDlDXEMonjJSIgXUN0QF7Q5BqFyKBM1JiBzFoQYBAhoBBkhYIZOsfYu1DKqigIZDahxRAokES1j5IgddA1YfaBylJGikV1CofMgIb8AWEqGvINt3BjxlfBDbehRyvjUNn8x2kdm4mp8Kal3uqLqyhu2dfiyBrQcrAlsCPcP6TjRgB9b7O0BcnhzomIOPIleVUCewjF0uJ2rmZLpDceMAuAoRknNE0aRszvbLfRI3rTPNOkz4zc5sUXyu+mSAZxsmkMZHttHB9QZDttHiIGm+0nZZU491fGdkQTDoZ2u07l+WqfZtkZB4P8IUM8wLKoSbJBumqpYyCuseUwe+LY91tt8OD5Xq9fqGUqeF1w4/f);fillColor=none;strokeColor=default;" value="" vertex="1">
           <mxGeometry height="3.485576923076923" width="7.451923076923077" x="964.3173076923076" y="637.9759615384615" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-78" parent="1" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#B3B3B3;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.users.users;labelPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="100" width="100" x="1087" y="630.02" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-81" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="验证者" vertex="1">
+          <mxGeometry height="30" width="60" x="1114" y="740.98" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-82" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;b style=&quot;&quot;&gt;公开验证阶段&lt;/b&gt;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="110" x="1089" y="579.04" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-83" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;$$W_1$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="1220" y="635.49" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-84" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=12;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;$$\hat{W}_1$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="1343.5" y="635.49" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-85" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;$$W_2$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="1220" y="700.02" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-86" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=13;" value="&lt;span style=&quot;text-align: left;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;$$\hat{W}_2$$&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="70" x="1343.5" y="700.02" as="geometry" />
+        </mxCell>
+        <mxCell id="7GRE0aXP4Se3tYWtbWVj-90" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="$$?$$" vertex="1">
+          <mxGeometry height="30" width="60" x="1297" y="579.04" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
