@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="Hcumqo_MWAHvlIrNdu88">
-    <mxGraphModel dx="884" dy="408" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
+    <mxGraphModel dx="737" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="1" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -64,10 +64,25 @@
           <mxGeometry height="30" width="60" x="1010" y="242.15" as="geometry" />
         </mxCell>
         <mxCell id="_EbHz1XAQlXxaANHEB1j-13" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" value="$$W_1$$" vertex="1">
-          <mxGeometry height="30" width="70" x="1010" y="390" as="geometry" />
+          <mxGeometry height="30" width="70" x="837" y="380" as="geometry" />
         </mxCell>
         <mxCell id="_EbHz1XAQlXxaANHEB1j-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="来源身份水印" vertex="1">
-          <mxGeometry height="30" width="90" x="1000" y="420" as="geometry" />
+          <mxGeometry height="30" width="90" x="827" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_EbHz1XAQlXxaANHEB1j-15" parent="1" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;size=16;" value="$$W_2$$" vertex="1">
+          <mxGeometry height="30" width="70" x="1005" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="_EbHz1XAQlXxaANHEB1j-16" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="实例绑定水印" vertex="1">
+          <mxGeometry height="30" width="79" x="1000.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="_EbHz1XAQlXxaANHEB1j-17" edge="1" parent="1" source="_EbHz1XAQlXxaANHEB1j-8" style="shape=wire;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;defaultLabelBackgroundColor=page;labelPadding=0 4;" target="_EbHz1XAQlXxaANHEB1j-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_EbHz1XAQlXxaANHEB1j-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="HMAC" vertex="1">
+          <mxGeometry height="30" width="60" x="1040" y="334" as="geometry" />
+        </mxCell>
+        <mxCell id="_EbHz1XAQlXxaANHEB1j-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="去噪" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="270" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
